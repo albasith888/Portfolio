@@ -1,0 +1,8 @@
+.topContainer{
+    background: url('../../assets/albasith1.jpeg');
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    box-shadow: 0 0 0 200px rgba(0, 0, 0, 0.5);
+}
